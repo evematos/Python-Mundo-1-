@@ -21,4 +21,4 @@ print("É maiúsculo? {}".format(t.isspace()))
 #verificar se SOMENTE 1 letra é maiúscula e o resto é minúscula
 print("É capitalizada? {}".format(t.istitle()))
 
-#Aqui objeto "t" é um objeto, todos os objetos string têm uma caracteristica, realizam uma funcionalidade e possuem atributos e métodos (islower, isupper, etc)
+#Aqui "t" é um objeto, todos os objetos string têm uma caracteristica, realizam uma funcionalidade e possuem atributos e métodos (islower, isupper, etc)
